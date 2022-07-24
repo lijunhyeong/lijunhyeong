@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 제가 궁금한가요? 👉 [COME ON](https://github.com/lijunhyeong/RESUME) 👈
+### 제가 궁금한가요? 👉 [COME ON](https://github.com/lijunhyeong/RESUME) 👈
 
 <!--
 **lijunhyeong/lijunhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
