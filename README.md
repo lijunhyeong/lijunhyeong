@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### for Python 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijunhyeong)](https://solved.ac/이름/)
 
-### for Kotlin 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/이름/)
