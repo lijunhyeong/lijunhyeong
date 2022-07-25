@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://user-images.githubusercontent.com/72978589/180751646-3b584611-e9d3-452d-983d-1a345d034aec.JPG" width="100%" height="30%">   
 
 ### 제가 궁금한가요? 👉 [COME ON](https://github.com/lijunhyeong/RESUME) 👈
 
