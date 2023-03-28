@@ -3,7 +3,7 @@
 <br/>
 <br/> Hi, I'm Lee Jun Hyeong.  
 <br/> I'm an Android developer who develops it in a fun way.  
-<br/> Time is flaying away, I have to enjoy my life :)  
+<br/> Time is flaying away, I'll enjoy my life :)  
 <br/>  
 <br/>  
 </div>
