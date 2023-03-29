@@ -31,10 +31,9 @@
 <br/> 🖥
 <br/> Problem Solving  
 <br/>   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=daba44)](https://solved.ac/daba44)  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=daba44)](https://solved.ac/daba44/)   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong)
+
 </div>
 
 
