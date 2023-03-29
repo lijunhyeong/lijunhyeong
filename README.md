@@ -10,8 +10,8 @@
   
 <div align="center">
 <br/> 🛠
-<br/> Techs Stack
-<br/>  
+<br/> Techs Stack that I can use.
+<br/>   
 
 <br/> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
@@ -29,8 +29,9 @@
 
 <div align="center">
 <br/> 🖥
-<br/> Problem Solving  
-<br/>   
+<br/> Problem Solving using Kotlin and Python.   
+<br/>    
+<br/>    
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=daba44)](https://solved.ac/daba44/)   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong)
 
@@ -39,7 +40,7 @@
 
 <div align="center">
 <br/> 💁🏻
-<br/> About Me  
+<br/> About Me & Studying  
 <br/>  
 <br/>  
   <a href = "https://www.notion.so/Just-Do-It-Now-9be54ccc8df3416e9c0651d2e42e79e9"  >
