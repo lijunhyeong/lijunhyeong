@@ -10,7 +10,7 @@
   
 <div align="center">
 <br/> 🛠
-<br/> Techs Stack that I can use.
+<br/> Tech Stack that I can use.
 <br/>   
 
 <br/> 
@@ -29,7 +29,7 @@
 
 <div align="center">
 <br/> 🖥
-<br/> Problem Solving using Kotlin and Python.   
+<br/> Problem Solving, Kotlin and Python.   
 <br/>    
 <br/>    
   
