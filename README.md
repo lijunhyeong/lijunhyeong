@@ -42,10 +42,10 @@
 <br/> 💁🏻
 <br/> About Me & Studying  
 <br/>  
- <!--<br/>  
+ <br/>  
   <a href = "https://www.notion.so/Just-Do-It-Now-9be54ccc8df3416e9c0651d2e42e79e9"  >
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>-->
+  </a>
   
   <a href = "https://velog.io/@lijunhyeong"  >
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
