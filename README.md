@@ -47,8 +47,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   
-  <a href = "https://velog.io/@lijunhyeong"  >
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href = "https://jay-din.tistory.com/"  >
+<img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
 
 </div>
