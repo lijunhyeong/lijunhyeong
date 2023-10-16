@@ -41,11 +41,13 @@
 <div align="center">
 <br/> 💁🏻
 <br/> About Me & Studying  
-<br/>  
+<br/> 
+  <!--
  <br/>  
   <a href = "https://www.notion.so/Just-Do-It-Now-9be54ccc8df3416e9c0651d2e42e79e9"  >
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
+  -->
   
   <a href = "https://jay-din.tistory.com/"  >
 <img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white">
