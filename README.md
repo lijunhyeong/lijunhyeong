@@ -2,8 +2,8 @@
 <br/> 🙌  
 <br/>
 <br/> Hi, I'm Lee Jun Hyeong.  
-<br/> I'm a Software Engineer 💻 who develops it in a fun way.  
-<br/> Time is flying away, I'll enjoy my life :)  
+<br/> I'm a Software Engineer who develops it in a fun way.  
+<br/> Time is flying away, I'll enjoy my life :) 💻
 <br/>  
 <br/>  
 </div>
