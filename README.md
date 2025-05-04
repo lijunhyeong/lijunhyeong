@@ -45,7 +45,12 @@
   <a href = "https://github.com/lijunhyeong/CleanCity"  > 퍼스널 모빌리티 주차문제 해결 </a>
 <br/> 
   <a href = "https://github.com/TeamMirinae/Mirinae_Android"  > 미리내 (크라우드 펀딩 형식, 제주 스팟에 고유 이름 지어주기 서비스) </a>
-
+<br/> 
+  <a href = "https://github.com/lijunhyeong/Daekiri"  > 대끼리 (대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스) </a>
+<br/> 
+  <a href = "https://play.google.com/store/apps/details?id=com.juncheers.cheers&hl=ko"  > 짠! Cheers! - 원격모임, 혼 </a>
+<br/> 
+  <a href = "https://play.google.com/store/apps/details?id=org.techtown.killme&hl=ko"  > 킬림 메시지: 사용자 참여 명언 플랫폼  </a>
 </div>
 
 
