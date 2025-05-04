@@ -41,9 +41,9 @@
 <br/> ✨
 <br/> Personal Experience & Projects 
 <br/> 
-  <a href = "https://github.com/lijunhyeong/CleanCity"  >
-    퍼스널 모빌리티 주차문제 해결
-  </a>
+<br/> 
+  <a href = "https://github.com/lijunhyeong/CleanCity"  > 퍼스널 모빌리티 주차문제 해결 </a>
+  <a href = "https://github.com/TeamMirinae/Mirinae_Android"  > 미리내 (크라우드 펀딩 형식, 제주 스팟에 고유 이름 지어주기 서비스) </a>
 
 </div>
 
