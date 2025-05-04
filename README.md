@@ -37,6 +37,16 @@
 
 </div>
 
+<div align="center">
+<br/> ✨
+<br/> Personal Experience & Projects 
+<br/> 
+  <a href = "https://github.com/lijunhyeong/CleanCity"  >
+    퍼스널 모빌리티 주차문제 해결
+  </a>
+
+</div>
+
 
 <div align="center">
 <br/> 💁🏻
